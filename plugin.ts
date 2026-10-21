@@ -10,7 +10,7 @@
 
 export default {
     name: 'hello-world',
-    version: '1.1.1',
+    version: '1.1.2',
     qntx_version: '>= 0.1.0',
     description: 'Hello World test plugin',
     author: 'QNTX Team',
